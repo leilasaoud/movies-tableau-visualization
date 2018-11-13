@@ -1,0 +1,5 @@
+ast
+iso639
+jupyter
+numpy
+pandas
