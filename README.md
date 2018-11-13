@@ -4,7 +4,7 @@ A visual exploration of The Movie Database ([TMDd](https://www.themoviedb.org)) 
 
 ## Datasets
 
-The datasets used in the project contain metadata and credits information about 5000 movies from ([TMDd](https://www.themoviedb.org)). It is available on [Kaggle](https://www.kaggle.com/tmdb/tmdb-movie-metadata/).
+The datasets used in the project contain metadata and credits information about 5000 movies from ([TMDd](https://www.themoviedb.org)). They are available on [Kaggle](https://www.kaggle.com/tmdb/tmdb-movie-metadata/).
 
 ## Featured technologies
 
